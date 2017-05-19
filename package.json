@@ -1,0 +1,16 @@
+{
+  "name": "k5",
+  "version": "1.0.0",
+  "description": "Application to save pronaunciations for words.",
+  "main": "server.js",
+  "scripts": {
+    "test": "none",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaroliinaKoppel/K5.git"
+  },
+  "author": "Karoliina Koppel",
+  "license": "ISC"
+}
